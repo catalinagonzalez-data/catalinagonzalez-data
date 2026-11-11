@@ -30,10 +30,16 @@ I cleaned consumer complaints about US banks in SQL, then built a dashboard in P
 
 [Project](https://github.com/catalinagonzalez-data/cfpb-complaints) · [Video](https://youtu.be/Dj91yN9ftkc)
 
-**🐍 Iowa Liquor Sales · Python (in progress)**
+**🐍 Iowa Liquor Sales · Python**
 
-I'm comparing 2025 with 2026 in pandas to understand why sales fell.
+I compared 2025 with 2026 sales in pandas. Sales seemed to drop 5.6%, but I found 77,452 duplicated rows. Without them, the real drop is only 1.9%. I also grouped 2,237 stores with RFM to show which ones a distributor should focus on.
+
+[Project](https://github.com/catalinagonzalez-data/iowa-liquor-sales)
+
 ## Get in touch
 Happy to chat about data, analytics or a role you think I'd fit.
-- [LinkedIn](https://www.linkedin.com/in/catalinagonzalezgarciadelahuerta)
-- Email: catagonzalez760@gmail.com
+
+<p>
+  <a href="mailto:catagonzalez760@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/catalinagonzalezgarciadelahuerta"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"></a>
+</p>
